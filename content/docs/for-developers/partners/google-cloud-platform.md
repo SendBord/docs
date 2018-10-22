@@ -2,7 +2,7 @@
 layout: page
 weight: 0
 group: platform-partners
-title: Google
+title: Google Cloud Platform
 navigation:
   show: true
 ---
